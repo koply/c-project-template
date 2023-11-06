@@ -1,8 +1,8 @@
-# C++ Project Template
-Project template for C++ projects with CMake
+# C Project Template
+Project template for C projects with CMake
 
 ## Structure
-The template consists of src and include directories. All cpp files in src directory are
+The template consists of src and include directories. All c files in src directory are
 automatically included (recursively).
 
 There is also the outer Makefile. This lets you run cmake, build the binary, and even run
